@@ -3,7 +3,7 @@ Shell script to build ipa.
 
 ===
 
-###使用说明
+### 使用说明
 
 下载后，打开终端执行脚本。
 
